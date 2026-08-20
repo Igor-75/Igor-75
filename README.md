@@ -9,8 +9,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-75&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" alt="Estatísticas do GitHub de Igor Oliveira" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" alt="Linguagens mais usadas por Igor Oliveira" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igor-75&theme=tokyonight" alt="Estatísticas do GitHub de Igor Oliveira" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igor-75&theme=tokyonight" alt="Linguagens mais usadas por Igor Oliveira" />
 </div>
 
 <br>
