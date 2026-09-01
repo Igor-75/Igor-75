@@ -36,7 +36,6 @@
 - 💼 Suporte de TI na **Synvia** de Campinas/SP
 - 🛠️ No dia a dia: Active Directory, Microsoft 365, Sophos Central, Freshservice e UniFi
 - ⚡ Formação em **Lean Six Sigma** aplicada a otimização de processos, com IA como apoio no desenvolvimento e na automação de tarefas
-- 🔍 Buscando uma **oportunidade de estágio em desenvolvimento**
 
 ### 🚀 Projetos
 
