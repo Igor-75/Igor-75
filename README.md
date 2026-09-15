@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FAM (conclusão em 2027)
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FAM (conclusão em 2028)
   <br>
   Assistente de Suporte de TI na Synvia · Lean Six Sigma Yellow Belt
   <br>
@@ -31,7 +31,7 @@
 
 ### 💡 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FAM, com conclusão prevista para 2027
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FAM, com conclusão prevista para 2028
 - 🌱 Estudando desenvolvimento web: JavaScript, TypeScript, React, Next.js e Node.js
 - 💼 Suporte de TI na **Synvia** de Campinas/SP
 - 🛠️ No dia a dia: Active Directory, Microsoft 365, Sophos Central, Freshservice e UniFi
